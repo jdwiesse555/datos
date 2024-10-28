@@ -1,4 +1,4 @@
-  "tanques": [
+ [
     {
       "codigo": "TK1",
       "metrica": "TM-010",
@@ -41,16 +41,4 @@
       "HEIGHT_PIES": "14",
       "id": "6a9d"
     }
-  ],
-  "usuario": [
-    {
-      "id": "9e6d",
-      "username": "jdwiesse",
-      "password": "123"
-    },
-    {
-      "id": "3f64",
-      "username": "jdwiesse",
-      "password": "1234"
-    }
-  ],
+  ]
